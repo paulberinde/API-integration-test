@@ -17,6 +17,8 @@ In order to test the app functionality, here is a list of user names:
 
 - Heimsz - Year One Account
 
-![alt text](https://github.com/paulberinde/paulberinde-pset5/blob/master/2016-05-23 01_32_04-5554_test.png)
+To Clear Data, press the Clear Data Button.
+
+![alt text](https://github.com/paulberinde/paulberinde-pset5/blob/master/2016-05-23 02_04_10.png)
 
 
